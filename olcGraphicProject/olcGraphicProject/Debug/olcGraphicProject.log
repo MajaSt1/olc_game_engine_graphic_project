@@ -1,0 +1,9 @@
+﻿  olcGraphicProject.cpp
+C:\Users\Z6FMS\Desktop\project graphic engine\olcGraphicProject\olcGraphicProject\olcGraphicProject.cpp(664,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Z6FMS\Desktop\project graphic engine\olcGraphicProject\olcGraphicProject\olcGraphicProject.cpp(664,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Z6FMS\Desktop\project graphic engine\olcGraphicProject\olcGraphicProject\olcGraphicProject.cpp(664,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Z6FMS\Desktop\project graphic engine\olcGraphicProject\olcGraphicProject\olcGraphicProject.cpp(664,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Z6FMS\Desktop\project graphic engine\olcGraphicProject\olcGraphicProject\olcGraphicProject.cpp(664,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Z6FMS\Desktop\project graphic engine\olcGraphicProject\olcGraphicProject\olcGraphicProject.cpp(664,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Z6FMS\Desktop\project graphic engine\olcGraphicProject\olcGraphicProject\olcGraphicProject.cpp(378): warning C4715: 'olcEngine3D::Triangle_ClipAgainstPlane': not all control paths return a value
+  olcGraphicProject.vcxproj -> C:\Users\Z6FMS\Desktop\project graphic engine\olcGraphicProject\Debug\olcGraphicProject.exe
